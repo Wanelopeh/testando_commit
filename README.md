@@ -7,3 +7,5 @@ testando committt
 Testando ddddddddddddddddd
 
 Testando commit no ambiente de homologação
+
+Testando se consigo empurrar (VSCode para remoto 11:29)
