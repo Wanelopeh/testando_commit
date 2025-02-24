@@ -15,3 +15,6 @@ Testando para ver se consigo puxar (Remoto para VSCode 11:31)
 Testando para fazer fetch (remoto para VSCode 11:34)
 
 testando 15:46
+
+
+testando 16:17
